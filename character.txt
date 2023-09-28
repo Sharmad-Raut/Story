@@ -3,3 +3,4 @@ hunter
 tree
 crocodile
 lion
+king
